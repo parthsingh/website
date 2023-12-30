@@ -1,0 +1,79 @@
+[
+    {
+      "title": "Machine Learning and Its Applications",
+      "description": "Supervised learning techniques, including linear models for regression, linear models for classification, decision trees, support vector machines, neural networks. Unsupervised learning techniques, including clustering and dimensionality reduction. Related advanced topics. Case studies and applications."
+    },
+    {
+      "title": "Operating Systems",
+      "description": "Overview of operating systems. Operating system structures. Process management. Concurrency and synchronization. Deadlock. Processor management. Scheduling and dispatch. Memory management. Virtual memory. Device management. File systems. Security, privacy and acceptable use."
+    },
+    {
+      "title": "Formal Languages and Automata",
+      "description": "Finite automata. Non-determinism. Regular expressions and languages. Context-free grammars and push down automata. Ambiguity. Closure properties. Normal forms. Context-free and non-context-free languages."
+    },
+    {
+      "title": "Artificial Intelligence",
+      "description": "Overview of the different application areas of AI. Introduction to the basic AI concepts and techniques such as heuristic search, knowledge representation, automated reasoning. In-depth discussion of several AI application areas: their specific problems, tools and techniques."
+    },
+    {
+      "title": "Big Data Analytics and Cloud Computing",
+      "description": "Data analytics lifecycle. Data analytics methods. Cloud infrastructure. Cloud storage, computing models and architectures. Cloud security. Case studies."
+    },
+    {
+      "title": "Computer Architecture",
+      "description": "Flip flops, sequential machines. Computer arithmetic. Data path and control unit design. Pipelining. Memory hierarchy and storage technology. Multiprocessing and alternative architectures."
+    },
+    {
+      "title": "Software Engineering",
+      "description": "Models of the software development process and metrics. Software requirements and specifications. Methodologies, tools and environments. Human-computer interaction. Software architecture, design and implementation techniques. Project management. Cost estimation. Testing and validation. Automated build, deployment and continuous integration. Maintenance and evolution."
+    },
+    {
+      "title": "Mobile Application Development",
+      "description": "Mobile development environments and fundamentals. Mobile user interface (UI) design and implementation. Mobile data storage and management. Network programming in mobile and integration with cloud services. Advanced mobile development with external sensors, libraries and frameworks. Hands-on mobile development practices and the distribution of mobile applications. Mobile application security."
+    },
+    {
+      "title": "Design and Analysis of Algorithms",
+      "description": "Algorithms for fundamental problems. Efficiency analysis using asymptotic notation. Principal algorithm design techniques and their tradeoffs. NP-theory and approaches used to address intractability."
+    },
+    {
+      "title": "Object-Oriented Design and Programming",
+      "description": "Elements of the object model. Abstraction, encapsulation, modularity, hierarchy and polymorphism. Object-oriented design principles. Design patterns. Implementation and programming of system design. Object and portable data. Comprehensive examples using a case study approach."
+    },
+    {
+      "title": "Elementary Linear Algebra and Differential Equations",
+      "description": "Separable and linear ordinary differential equations; numerical and analytical solutions. Linear algebra: vectors in n-space, matrices, linear transformations, eigenvalues, eigenvectors, diagonalization; applications to the study of systems of linear differential equations."
+    },
+    {
+      "title": "Computer Organization and Assembly Programming",
+      "description": "Number representation, integer arithmetic. Von Neumann machine. Instruction set architecture. Addressing modes. Assembly programming. Arrays and records. Subroutines and macros. Interrupts. I/O interfacing and communication."
+    },
+    {
+      "title": "Probability and Statistics for Computer Scientists",
+      "description": "Descriptive statistics. Rules of probability. Discrete and continuous probability distributions. Sampling distributions. Large- and small-sample inferences for one- and two-sample points. Interval Estimation and hypothesis testing for means, proportions and variances. Chi-Square tests. Analysis of variance. Introduction to regression and correlation."
+    },
+    {
+      "title": "Numerical Methods and Computing",
+      "description": "Linear algebra concepts, Linear Transformations and Matrix Factorizations, Eigenvalues and Eigenvectors, Least Squares, error analysis, floating-point representations, roots of nonlinear equations, systems of linear equations, interpolation, numerical integration."
+    },
+    {
+      "title": "Calculus III",
+      "description": "Introduction to vectors, dot product, cross product, equations of lines and planes, calculus of vector valued functions, introduction to multivariable functions, differential calculus of multivariable functions, the chain rule, applications including extreme problems and Lagrange multipliers, integral calculus of multivariable functions, double and triple integrals, applications of double and triple integrals, line and surface integrals of vector fields, Green’s Theorem, the Divergence Theorem, Stokes’ Theorem."
+    },
+    {
+      "title": "Data Structures and Advanced Programming",
+      "description": "Abstract data types and their implementation using linear and non-linear data structures. Interfaces and generics. Advanced file access. Recursive structures and operations. Big-O notation and introduction to algorithm analysis."
+    },
+    {
+      "title": "Systems Programming",
+      "description": "Fundamentals of C programming and Unix environment. File management, communications and process control. Regular expressions. Unix system calls, concurrent and socket programming."
+    },
+    {
+      "title": "Calculus II",
+      "description": "Integration techniques including integration by parts, integrals of trigonometric products, partial fractions, substitution and trigonometric substitution. Hyperbolic functions. Improper Integrals, sequences and series, polar coordinates, parametric equations and conic sections."
+    },
+    {
+      "title": "Discrete Structures",
+      "description": "Logic, proof techniques, sets, basic counting rules, relations, functions and recursion. Modular arithmetic, prime numbers. Graphs and trees. Boolean algebra, computer logic, and combinational circuits."
+    }
+  ]
+  

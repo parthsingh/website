@@ -1,0 +1,27 @@
+[
+    {
+      "title": "Reportify — Web App",
+      "description": "Developed a Python-based web application that converts YouTube video content into comprehensive text reports, complete with summaries and transcripts. Implemented machine learning algorithms for summarization and YouTube APIs for data retrieval.",
+      "technologies": ["Python", "Flask", "HTML", "CSS", "Bootstrap", "NLP"],
+      "imageUrl": "https://image1.slideserve.com/2124723/what-your-summary-will-look-like-l.jpg"
+    },
+    {
+      "title": "Sentiment Analysis — Web App",
+      "description": "Developed a sentiment analysis model using ml5.js, a JavaScript library for machine learning and creative coding. The model efficiently scores the sentiment of text, assigning values between 0 ('negative') and 1 ('positive') to gauge the emotional tone of textual data.",
+      "technologies": ["Javascript", "HTML", "CSS", "NLP"],
+      "imageUrl": "https://monkeylearn.com/static/348bb1d70089176ca2f61ea402094382/50bf7/main.png"
+    },
+    {
+      "title": "Zodiac — Android App",
+      "description": "Engineered an Android app, Zodiac, leveraging Java and Android SDK, to provide astrology-based horoscopes. Implemented API integration for dynamic content delivery.",
+      "technologies": ["Kotlin", "Java", "Android SDK"],
+      "imageUrl": "https://images.herzindagi.info/image/2023/Aug/zodiac-sign-enemies.jpg"
+    },
+    {
+      "title": "Vocab Squares — Chrome Extension",
+      "description": "Empowered users to rapidly expand their word knowledge by accessing synonyms, definitions, and example sentences of words.",
+      "technologies": ["Javascript", "HTML", "CSS"],
+      "imageUrl": "https://lh3.googleusercontent.com/MpDtfCllRzqPbifYzGyyANbVkdw0bLXcht5GaMAK2nwM-52neIIH-BBAUa0NQkCFxzWJKUnYeHvV-w-3nwL352IO=s1280-w1280-h800"
+    }
+  ]
+  
