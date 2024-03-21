@@ -13,11 +13,11 @@ const App = () => {
   return (
     <Router>
       <Routes>
-        <Route path="https://parthsingh.github.io/react-website/" element={<Home/>} />
-        <Route path="https://parthsingh.github.io/react-website/about" element={<About/>} />
-        <Route path ="https://parthsingh.github.io/react-website/projects" element={<Projects/>}/>
-        <Route path = "https://parthsingh.github.io/react-website/coursework" element={<Courses/>}/>
-        <Route path = "https://parthsingh.github.io/react-website//contact" element={<Contact/>}/>
+        <Route path="/" element={<Home/>} />
+        <Route path="/about" element={<About/>} />
+        <Route path ="/projects" element={<Projects/>}/>
+        <Route path = "/coursework" element={<Courses/>}/>
+        <Route path = "/contact" element={<Contact/>}/>
         {/* ... add routes for other pages */}
       </Routes>
     </Router>
