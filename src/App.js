@@ -1,5 +1,5 @@
 import React from 'react';
-import { BrowserRouter as Router, Routes, Route, HashRouter } from 'react-router-dom'; // Change HashRouter to BrowserRouter
+import { BrowserRouter as Router, Routes, Route,  } from 'react-router-dom'; // Change HashRouter to BrowserRouter
 import Home from './pages/home';
 import About from './pages/about';
 import Projects from './pages/projects';
@@ -8,7 +8,7 @@ import Contact from './pages/contact';
 
 const App = () => {
   return (
-    <Router basename='/'> {/* Change HashRouter to BrowserRouter */}
+    <Router > {/* Change HashRouter to BrowserRouter */}
       <Routes>
         <Route path="/" element={<Home />} />
         <Route path="/about" element={<About />} />
